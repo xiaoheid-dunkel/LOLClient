@@ -12,7 +12,7 @@ public class SmartSoldier : MonoBehaviour {
     public Transform[] towers;
     private Health HP;
 
-
+    
     public int type=0;
 	// Use this for initialization
 	void Start () {
